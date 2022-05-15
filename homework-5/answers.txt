@@ -1,0 +1,5 @@
+1.Kernel bir işletim sisteminin çekirdeğidir ve sistemdeki bütün işlemleri kontrol eder.Shell ise kullanıcının kernel ile iletişimini sağlar.
+2.Docker ve docker swarmları yönetmemizi sağlayan bir ui'dır.
+3.CORS kötü niyetli sitelerin kullanıcının aynı tarayıcıdan açtığı diğer web sitelerine web isteği yapmasını sınırlar ya da engeller.
+4.Hem web uygulamaları oluşturma hem de bunları çalıştırmak için sunucu ortamı sağlayan bir yazılım çerçevisidir.Application server remote makinada çalışabileceği gibi client program ile aynı makinada da çalışabilir.
+5.CVCS'de ana mantık repoların tek bir noktada bulunarak client'ların o noktadan erişim sağlamasıdır.DVCS'de ise ana bir repo ile beraber her kullanıcının yerel bir repo bulundurmasıdır.
