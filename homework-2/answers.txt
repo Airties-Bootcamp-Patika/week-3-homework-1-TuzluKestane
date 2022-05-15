@@ -1,0 +1,5 @@
+1. Geliştirilen uygulamadaki kodların belirli standarlara uyup uymadığını kontrol eden açık kaynak kodlu bir tooldur.Sonarqube kodu derlemez. Kod içinde bulunabilecek güvenlik açığı, bug, tekrar geliştirilebilirik gibi konuları ele alarak buradaki eksikleri notlandırarak geri bildirim verir. Ayrıca buradaki hatalar ile ilgili çözümler de verir.
+2.Kubernetes docker gibi container uygulamalarını yönetme, ölçeklendirme ve dağıtma konularını ve bu süreçlerin otomatikleştirmesini ele alır.
+3.Containerların bir arada çalışma, biribiri ile  ilişki kurma ,gruplama durumlarını monitör etme gibi işlemlerinin tamamıdır.
+4. Java dili için geliştirilmiş ve node.js standartlaşmış bir paket yönetim sistemidir. Npm projelerimizdeki paket yönetimini otomatikleştirir.
+5. Yazılım geliştirmede kullanılan proje yönetim yaklaşımı diyebiliriz. Sprint adı verilen düzenli aralıklarla oluşturulan iş planı ile yapılacak projenin ilerleyişi ve bu süreçte ortaya çıkabilecek sorunlara çok daha rahat çözüm bulunur. Bütün süreç planlı olduğu için projenin deadline'ı daha tutarlı bir hale gelir. 
