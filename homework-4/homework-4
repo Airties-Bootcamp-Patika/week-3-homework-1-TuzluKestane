@@ -1,0 +1,7 @@
+1. Uri, içeriğe tam olarak işaret eden (identifier) standart formata sahip bir karakter dizisine  denir.Uri, url ve urn'yi kapsar.Url ise bir kaynağı tanımlayan ve ona ulaşmamızı sağlayan bilgiyi içeren bir uridir.
+2.Dns ıp adreslerinin ve domainlerin kaydının tutulduğu bir adlandırma servisidir.İnternetin telefon rehberi olarakta adlandırılır.Ip adreslerini ezberleme yerine hem kullanıcılar hem de web tarayıcıları için okunabilir, akılda kalıcı bir yapı sağlar.
+  Domain bir wep sitesinin internetteki adı ve adresidir.
+  Host kendi eşsiz ıp adresine sahip bir bilgisayar ağına bağlı bilgisayar veya cihazlara denir.
+3.GNU, özgür yazılım olan bir işletim sistemidir.Linux dağıtımlarının çoğu GNU işletim sistemidir.En bilinen içeriklerinden bir tanesi GNU Compiler Collection (GCC)'dir.
+4.Git yazılım geliştirmeden kullanılan dağıtık yapılı sürüm kontrol sistemidir.
+5.CLI kullanıcının belli komutlar ile sistemle iletişim kurmasını sağlar. GUI grafiksel bir arabirim ile (görüntüler,simgeler) sistemle etkileşimini sağlar.
