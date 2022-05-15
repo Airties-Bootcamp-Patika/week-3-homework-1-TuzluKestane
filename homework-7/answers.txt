@@ -1,0 +1,20 @@
+1.Bir repoda değişiklik sonrası unstaged durumuna gider. Sonrasında git add komutunu kullanırsak tekrardan staged durumuna geçicektir.
+2.git config user.name && git config user.email
+3.mkdir git_code
+4.touch data.txt
+5.git init
+6.git checkout -b "linux" && git checkout -b "git"
+7.touch linux.txt && git add . && git commit -m "linux.txt created"
+8.git checkout  git && touch git.txt && git add . && git commit -m "git.txt created"
+9.ssh-keygen -t ed25519 -C "alper.ayhan@medianova.com" && eval "$(ssh-agent -s)" && ssh-add -K ~/.ssh/id_ed25519 
+10.git config --global alias.super 'log --oneline --decorate'
+11.mkdir .gitignore && vim .gitignore
+12.git diff git linux
+13.git clone https://github.com/Airties-Bootcamp-Patika/week-3-homework-1-TuzluKestane.git
+14.git log && git status 
+15.git tag 1.5.1 &&
+16.git checkout -b deneme_brach && git pull
+17.git merge linux &&  git merge git --no-ff
+18.git branch && git brach -d git
+19.Merge işlemi sırasında oluşan çakışmalara denir.Bu durumun oluşmaması için stash kullanılabilir.
+20.6. ödevde cevabı bulunuyor.
