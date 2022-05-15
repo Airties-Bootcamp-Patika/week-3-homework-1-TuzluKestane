@@ -1,0 +1,7 @@
+1.Yapılanın net bir şekilde anlatıldığı emir kipinden oluşan kısa cümleler olmalıdır.
+2.FIFO da ilk giren ilk çıkan mantığı vardır. LIFO ise son giren ilk çıkar mantığını temsil eder.
+3.Merge ve rebase yapısı brachleri birleştirmek için kullanılır fakat duruma yaklaşımları farklıdır.Main branch ile backend branchi olduğunu farzedelim.Merge işlemi yapıldığında backend branchinde main ile merge edildiğine dair bir commit atılır.Rebase işleminde ise Main branchindeki her commit backend'de yapılmış gibi otomatik oluşturulmuş commitler yer alır bir nevi 2 branch tek bir branch'mişçesine işlem görür.
+4.Atlassian tarafından geliştirilmiş git proje yönetimini kolaylaştıran bir uygulamadır.
+5.Interpreter programı satır satır makine diline çevirirken, compiler bütün programı makine diline çevirir.Interpreter Python,Ruby,Js gibi giller kullanırken, compiler yapısını c , c++, java dilleri kullanır.
+6. ?
+7.Java web ve uygulama sunucularında, istemcilerden  gelen istekler ile uygulamalar ve veritabanları arasındaki ara katmandır.
