@@ -1,0 +1,12 @@
+1.Yönetimimizdeki sunucuları tek bir çatı altında birleştirerek makine veya rol bazlı işlemlerimizi kolaylaştıran python ve ruby diliyle geliştirilmiş bir platformdur. Playbook adı verilen yaml formatındaki dosyalar ile ansible'ın kendi modülleri hariç özelleştirilmiş mödüller yazarak yapıcağımız işlemleri çeşitlendirmemiz mümkündür.
+2.Xml ( Extensible Markup Language ) donanım ve yazılımdan bağımsız bir şekilde insanların ve bilgi işlem sistemlerinin kolayca okuyabileceği bir metin formatıdır.
+3.JSON isanlar tarafında kolayca okunabilir veri saklama ve alışverişinde kullanın bir metin formatıdır.
+4. Karmışık yapılara sahip nesneleri basit bir syntax ile yazmamıza yarayan bir veri serileştirme dilidir.Key/data formatı kullanılır.
+5. Http: Açılımı Hyper Text Transfer Protocol'dür. Ağ üzerinde kullanılan bir iletişim protokolüdür. Port olarak 80 portunu kullanır.
+   Https: Http protokolünün güvenli sürümü olarak düşünebiliriz. Açılımı Secure Hyper Text Transfer Protocol'dür . 443 portunu kullanır.Httpye ek olarak günenlik için SSL adı verilen (Secure Socket Layer) sertifikayı kullanır.
+   Status code : Server client arasındaki iletim sırasında durumu belirten kodlardır.
+		 1xx bilgi içerir.
+		 2xx başarı isteklerde döner.
+		 3xx Yönlendirme ile ilgili durumlarda görürüz.
+		 4xx İstemci tarafından gelen hatalarda karşılaşılır.
+		 5xx Sunucu hatalarını gösterir.
