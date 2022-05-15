@@ -1,0 +1,19 @@
+1.Bilgisayar 65,535 tane port bulunur.
+2.0 ile 1024 arasında bulunan portlar yaygın TCP/IP uygulamaları için ayrılmıştır bu portlara well-known portlar denir.
+3.80 portu http protokolü için kullanılmaktır.İnternet erişimi sağlayacak cihazlar 80 portu üzerinden istek gönderir.80 portunu 8585'e açmak bir proxy server kullanımına örnektir.
+4.Nginx yüksek performanslı bir web server uygulamasıdır.Reverse proxy ve loadbalancer özellikleri de bulunmaktadır.
+5.DevOps, tek bir ekibin uygulama geliştirme yaşam döngüsünün tamamını, yani geliştirme, test etme, dağıtma  işlemlerini yönetmesine izin veren bir alandır.Devops süreçleri Sürekli Gelişim, Sürekli Entegrasyon, Sürekli Test, Sürekli Denetleme, Sürekli Geribildirim, Sürekli Dağıtım, Sürekli İşlemler ele alır.
+
+Sürekli Gelişim: Yazılımın kodlama ve planlama aşamasıdır.
+
+Sürekli Entegrasyon: Yazılım tarafından yapılan geliştirmelerin gün içinde birkaç kez ana bir hatta birleştirmesine denir.Bu şekilde yapılan geliştirmeler uygulamaya küçük parçalar halinde aktarılarak daha sağlıklı bir geliştirme süreci oluşturmaktır.
+
+Sürekli Test: Uygulamanın gerçek kullanımını kontrol eder. Selenium, TestNG gibi otomasyon tooları kullanılır.
+
+Sürekli Denetleme: Uygulamanın performasının monitor edildiği ve oluşan sistem hatalarının çözüldüğü adımdır.
+
+Sürekli Geribildirim: Ürünün gelişmesinde ve yeni sürümlerin hızlı çıkmasında yardımcı olur. Müşteri gerbildirimi, mevcut ürünün performansının iyileştirilmesi gibi alanları kapsar.
+
+Sürekli Dağıtım: Yapılan geliştirmenin sunuculara canlıdaki performansı etkilemeyecek şekilde dağıltıldığı adımdır.
+
+Sürekli İşlemler: Bütün süreçlerin otomatize bir şekilde gerçekleşmesini hedefleyen adımdır.
